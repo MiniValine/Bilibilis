@@ -23,6 +23,13 @@ https://cdn.jsdelivr.net/gh/MiniValine/Bilibilis
 * Join our [Gitter][gitter-url] chats.
 * Vote for [popular feature requests][feat-req-vote-url].
 
+## Thanks
+
+Thanks to [@njit-guoxinyu](https://github.com/njit-guoxinyu) for the contribution.
+
+Thanks to Bilibili for designing emoticons.
+
+Bilibili表情的版权规归原作者所有，MiniValine保留对该仓库的最终解释权。
 
 ## License
 
