@@ -29,7 +29,7 @@ Thanks to [@njit-guoxinyu](https://github.com/njit-guoxinyu) for the contributio
 
 Thanks to Bilibili for designing emoticons.
 
-Bilibili表情的版权规归原作者所有，MiniValine保留对该仓库的最终解释权。
+Bilibili表情的版权归原作者所有，MiniValine保留对该仓库的最终解释权。
 
 ## License
 
